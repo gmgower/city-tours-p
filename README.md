@@ -1,3 +1,18 @@
+## Dev Dependencies
+
+    yarn add --dev @fortawesome/fontawesome-free
+
+    // add to App.js
+    import "@fortawesome/fontawesome-free/css/all.min.css";
+
+    // add to public/index.html
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js">
+    <title>City Tours</title>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
