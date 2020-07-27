@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../../logo.svg";
+import './navbar.scss';
 
 const Navbar = () => {
   return (
@@ -17,7 +18,7 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <a href="/" className="nav-link">
+          <a href="/" className="nav-link active">
             tours
           </a>
         </li>
